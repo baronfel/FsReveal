@@ -232,7 +232,8 @@ Check out the [Austin F#](https://www.meetup.com/Austin-F-Meetup/events/25409658
 
 Help us decide on the next topic!
 
+--- 
 
+<a href="https://fsharp.org/"><img src="images/fsharp256.png" class="plain" width="25   %" /></a>
 
-Join the F# Software Foundation and visit us on Slack and the [forums](https://forums.fsharp.org)
-<a href="https://fsharp.org/"><img src="images/fsharp256" class="plain" width="50%" /></a>
+Join the [F# Software Foundation](https://fsharp.org/) and visit us on [Slack](https://fsharp.slack.com/) and the [forums](https://forums.fsharp.org)
