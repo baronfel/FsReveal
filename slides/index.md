@@ -231,3 +231,8 @@ Slides are at [https://baronfel.github.io/austin-meetup-2018-09-20](https://baro
 Check out the [Austin F#](https://www.meetup.com/Austin-F-Meetup/events/254096582/) MeetUp group for more like this.
 
 Help us decide on the next topic!
+
+
+
+Join the F# Software Foundation and visit us on Slack and the [forums](https://forums.fsharp.org)
+<a href="https://fsharp.org/"><img src="images/fsharp256" class="plain" width="50%" /></a>
