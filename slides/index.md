@@ -226,6 +226,8 @@ Implementations exist for
 
 ### Thanks for coming!
 
+Slides are at [https://baronfel.github.io/austin-meetup-2018-09-20](https://baronfel.github.io/austin-meetup-2018-09-20/#/)
+
 Check out the [Austin F#](https://www.meetup.com/Austin-F-Meetup/events/254096582/) MeetUp group for more like this.
 
 Help us decide on the next topic!
